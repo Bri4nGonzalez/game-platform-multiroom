@@ -1,0 +1,13 @@
+the essentials:
+    project setup
+    create a player
+    gravity
+    player movement
+    background sprite
+    collision blocks
+    sprite animation
+    hitbox implementation
+    sprite swapping
+    entering doors
+    change levels
+    next steps
